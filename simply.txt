@@ -1,9 +1,0 @@
-Simply Resolusi
-- HTML dan CSS ikuti alur.
-- Belajar PHP, done paling lambat 1 bulan.
-- Belajar Javascript, done paling lambat 1 bulan.
-- Coba framework Bootstrap 4 & Laravel.
-- Belajar Database.
-- Buat sebuah project.
-
-I'm Comming!! :)
